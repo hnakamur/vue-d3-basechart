@@ -1,0 +1,20 @@
+{
+  "name": "vue-d3-basechart",
+  "version": "0.1.0",
+  "description": "BaseChart class for Vue.js and d3.js",
+  "main": "src/BaseChart.vue",
+  "peerDependencies": {
+    "d3": ">=4.0.0",
+    "vue": ">=2.0.0"
+  },
+  "scripts": {},
+  "repository": "git+https://github.com/hnakamur/vue-d3-basechart.git",
+  "keywords": [
+    "vue",
+    "d3",
+    "d3.js",
+    "chart"
+  ],
+  "author": "Hiroaki Nakamura <hnakamur@gmail.com>",
+  "license": "MIT"
+}
