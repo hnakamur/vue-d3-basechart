@@ -13,7 +13,7 @@ npm install vue-d3-basechart
 
 src/components/BarChart.vue
 
-```
+```html
 <template>
   <svg class="bar-chart"></svg>
 </template>
@@ -85,7 +85,7 @@ export default BaseChart.extend({
 
 src/App.vue
 
-```
+```html
 <template>
   <div id="app">
     <bar-chart :chart-data="barChart.data" :width="barChart.width" :bar-height="barChart.barHeight"></bar-chart>
