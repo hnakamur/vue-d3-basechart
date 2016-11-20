@@ -1,6 +1,6 @@
 {
   "name": "vue-d3-basechart",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "BaseChart class for Vue.js and d3.js",
   "main": "src/BaseChart.vue",
   "dependencies": {

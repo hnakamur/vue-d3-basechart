@@ -111,3 +111,6 @@ export default {
   }
 }
 </script>
+
+* [Example repository](https://github.com/hnakamur/vue-d3-basechart-example)
+* [Example live demo](https://hnakamur.github.io/vue-d3-basechart-example/dist/)
